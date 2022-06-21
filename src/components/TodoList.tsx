@@ -1,4 +1,3 @@
-import type {Todo} from '@prisma/client'
 import React from 'react'
 import {Table} from 'reactstrap'
 import useTodos from '../hooks/useTodos'
